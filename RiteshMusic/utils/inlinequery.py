@@ -8,7 +8,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Pᴀᴜsᴇ",
             description=f"ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/g93qe8.jpg",
+            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
             input_message_content=InputTextMessageContent("/pause"),
         ),
         InlineQueryResultArticle(
@@ -20,25 +20,25 @@ answer.extend(
         InlineQueryResultArticle(
             title="Sᴋɪᴩ",
             description=f"sᴋɪᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ ᴀɴᴅ ᴍᴏᴠᴇs ᴛᴏ ᴛʜᴇ ɴᴇxᴛ sᴛʀᴇᴀᴍ.",
-            thumb_url="https://files.catbox.moe/g93qe8.jpg",
+            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
             input_message_content=InputTextMessageContent("/skip"),
         ),
         InlineQueryResultArticle(
             title="Eɴᴅ",
             description="ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/g93qe8.jpg",
+            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
             input_message_content=InputTextMessageContent("/end"),
         ),
         InlineQueryResultArticle(
             title="Sʜᴜғғʟᴇ",
             description="sʜᴜғғʟᴇ ᴛʜᴇ ǫᴜᴇᴜᴇᴅ sᴏɴɢs ɪɴ ᴩʟᴀʏʟɪsᴛ.",
-            thumb_url="https://files.catbox.moe/g93qe8.jpg",
+            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
             input_message_content=InputTextMessageContent("/shuffle"),
         ),
         InlineQueryResultArticle(
             title="Lᴏᴏᴩ",
-            description="ʟᴏᴏᴩ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
-            thumb_url="https://files.catbox.moe/g93qe8.jpg",
+            description="Satyam Yadav ᴛʜᴇ ᴛʀᴀᴄᴋ ᴏɴ ᴠɪᴅᴇᴏᴄʜᴀᴛ.",
+            thumb_url="https://files.catbox.moe/d4z1dl.jpg",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
     ]
