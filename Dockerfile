@@ -1,5 +1,5 @@
 #⟶̽ जय श्री ༢།म >𝟑🙏🚩
-FROM nikolaik/python-nodejs:python3.10-nodejs19
+FROM nikolaik/python-nodejs:python3.10-nodejs20
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends curl ffmpeg ca-certificates gnupg \
