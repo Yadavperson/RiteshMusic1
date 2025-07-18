@@ -1,5 +1,5 @@
 #⟶̽ जय श्री ༢།म >𝟑🙏🚩
-from pyrogram.types import InlineKeyboardButton, WebAppInfo
+from pyrogram.types import InlineKeyboardButton
 import config
 from RiteshMusic import app
 
